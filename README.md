@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="res/anime-computer.gif" alt="programming">
+  <img src="res/gotovka.jpeg" alt="programming">
 </p>
